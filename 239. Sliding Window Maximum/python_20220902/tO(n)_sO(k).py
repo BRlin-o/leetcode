@@ -9,7 +9,6 @@ class Solution(object):
         q = collections.deque()
         for i in range(k):
             while q and nums[i] >= nums[q[-1]]:
-                # print(nums[i], nums[q[-1]])
                 q.pop()
             q.append(i)
         ans = [nums[q[0]]]
