@@ -21,3 +21,5 @@
 - [704. Binary Search]: [30ms, 27.5MB](https://leetcode.com/submissions/detail/684655675/)
 
 [704. Binary Search]: https://leetcode.com/problems/binary-search/
+[149. Max Points on a Line]: https://leetcode.com/problems/max-points-on-a-line/
+[239. Sliding Window Maximum]: https://leetcode.com/problems/sliding-window-maximum/
